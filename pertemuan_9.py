@@ -125,8 +125,8 @@
 #     is_done = input("Mau tambah lagi bro (y/n)? ")
 #     if is_done == "n":
 #         break
-
-#     print("\nAkhir dari program, terima kasih")
+    
+# print("\nAkhir dari program, terima kasih")
 
 ## --- LATIHAN ---
 print("\n--- L A T I H A N ---\n")
